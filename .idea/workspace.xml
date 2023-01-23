@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32548326-c0f5-4a3f-bae0-f28c8993ee60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IntegerMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replacing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Splitting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersizes/EX7.java" afterDir="false" />
+    <list default="true" id="32548326-c0f5-4a3f-bae0-f28c8993ee60" name="Changes" comment="It was easy">
+      <change afterPath="$PROJECT_DIR$/src/Resetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheReplacements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/EX10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/EX11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/EX12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/EX8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/EX9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jenkovexpressionslerning/CreateMatcherExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jenkovexpressionslerning/MatcherExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jenkovexpressionslerning/MatcherFindStartEndExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jenkovexpressionslerning/MatcherGroupExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jenkovexpressionslerning/MatcherReplaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/BoundariesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/MatcherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/PatterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/StringRegexTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Splitting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Splitting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exersizes/EX7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exersizes/EX7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +37,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../jdk8u345-b01/src.zip!/java/util/regex/Pattern.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,6 +67,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673945363921</updated>
     </task>
+    <task id="LOCAL-00001" summary="It was easy">
+      <created>1674054701596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674054701596</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="It was easy" />
+    <option name="LAST_COMMIT_MESSAGE" value="It was easy" />
   </component>
 </project>
